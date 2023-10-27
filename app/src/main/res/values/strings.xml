@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pencet_1">pencet 1</string>
+    <string name="pencet_2">pencet 2</string>
+</resources>

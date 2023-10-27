@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#8BC34A</color>
+    <color name="white">#D50B0B</color>
+    <color name="fragment1">#E105E8</color>
+    <color name="fragment2">#1360FA</color>
+</resources>
